@@ -11,7 +11,7 @@ I’m passionate about building performant, user-friendly web applications. I’
 
 ## Key Projects:
 
-### 🚀 **Next.js Projects**
+### 🚀 **Next.js/React Projects**
 
 #### 1. [Real-Estate Web Application (Next.js, React, CSS modules)](https://github.com/shoaibalirts/DinMaegler-in-NextJS.git)
 - A Desktop-first real estate listing web application with search filters, property details, and an interactive map.
@@ -20,9 +20,9 @@ I’m passionate about building performant, user-friendly web applications. I’
 - **Architecture**: 3-tier architecture (Frontend, API, Backend)
 
 #### 2. [Dance App (Next.js, React, Tailwind CSS)](https://github.com/shoaibalirts/e-commerce-website)
-- Users can signup classes and remove classes
+- A Dance App that allow users to signup, register and sign out classes. For these, interactivity users have to be signed in. 
 - **Technologies Used**: Next.js, React, Tailwind CSS
-- **Features**:  SSR for better SEO performance, and lazy loading of images.
+- **Features**:  SSR for better SEO performance, search functionality, and lazy loading of images.
 - **Architecture**: 3-tier architecture (Frontend, API, Backend)
 
 #### 3. [Spotyify App (Next.js, CSS Modules)](https://github.com/shoaibalirts/spotyify-app)
@@ -34,7 +34,6 @@ I’m passionate about building performant, user-friendly web applications. I’
   - Responsive design for a seamless user experience.
   - Styled with **CSS Modules** for scoped, maintainable styling.
  
-### 🚀 **Next.js Projects**
 #### 4. [React App](https://github.com/shoaibalirts/ProjectManagement-React-App.git)
 
 ## Connect with me:
