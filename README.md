@@ -35,9 +35,9 @@ I focus on mastering concepts and building from the ground up.
   - Responsive design for a seamless user experience.
   - Styled with **CSS Modules** for scoped, maintainable styling.
  
-#### 4. [React App](https://github.com/shoaibalirts/ProjectManagement-React-App.git)
+#### 4. [Project management](https://github.com/shoaibalirts/ProjectManagement-React-App.git)
 - A Web app that allow users to create, read, update and delete taks.
-- **Technologies Used**: Next.js, CSS Modules, React
+- **Technologies Used**: React.js, and CSS
 - **Features**: CRUD operation 
 - Styled with **CSS**
 
