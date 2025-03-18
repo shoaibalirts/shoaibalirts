@@ -20,7 +20,7 @@ I focus on mastering concepts and building from the ground up.
 - **Features**: Dynamic page generation, SSR for better SEO performance, and lazy loading of images.
 - **Architecture**: 3-tier architecture (Frontend, API, Backend)
 
-#### 2. [Dance App (Next.js, React, Tailwind CSS)](https://github.com/shoaibalirts/e-commerce-website)
+#### 2. [Dance App (Next.js, React, Tailwind CSS)](https://github.com/shoaibalirts/Dance-App-NextJS.git)
 - A Dance App that allow users to signup, register and sign out classes. For these, interactivity users have to be signed in. 
 - **Technologies Used**: Next.js, React, Tailwind CSS
 - **Features**:  SSR for better SEO performance, search functionality, and lazy loading of images.
