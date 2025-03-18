@@ -13,7 +13,7 @@ I’m passionate about building performant, user-friendly web applications. I’
 
 ### 🚀 **Next.js Projects**
 
-- ### [Real-Estate Web Application (Next.js, React, CSS modules)](https://github.com/shoaibalirts/DinMaegler-in-NextJS.git)
+### [Project 2: Real-Estate Web Application (Next.js, React, CSS modules)](https://github.com/shoaibalirts/DinMaegler-in-NextJS.git)
 - A Desktop-first real estate listing web application with search filters, property details, and an interactive map.
 - **Technologies Used**: Next.js, CSS modules, Google Maps API
 - **Features**: Dynamic page generation, SSR for better SEO performance, and lazy loading of images.
