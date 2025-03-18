@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Shoaib! 👋
 
-<!--
-**shoaibalirts/shoaibalirts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Frontend and Software Developer** specializing in **React, Next.js, and Vue** with experience in **Java, PHP, C++**, and **cloud technologies**.  
+I’m passionate about building performant, user-friendly web applications. I’m always learning and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## My Skills:
+- Frontend: React, Next.js, Vue, Tailwind CSS
+- Backend: Java, Java EE, C++, PHP
+- Cloud: Azure (Certified)
+- Web Optimization & Performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Projects:
+- [Next.js](https://github.com/shoaibalirts/DinMaegler-in-NextJS.git)
+- [React App](https://github.com/shoaibalirts/ProjectManagement-React-App.git)
+
+## Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/shoaib-ali-93b5782aa/)
