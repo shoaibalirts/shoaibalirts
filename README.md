@@ -26,7 +26,7 @@ I focus on mastering concepts and building from the ground up.
 - **Features**:  SSR for better SEO performance, search functionality, and lazy loading of images.
 - **Architecture**: 3-tier architecture (Frontend, API, Backend)
 
-#### 3. [Spotyify App (Next.js, CSS Modules)](https://github.com/shoaibalirts/Spotify-App-NextJS.git)
+#### 3. [Spotify App (Next.js, CSS Modules)](https://github.com/shoaibalirts/Spotify-App-NextJS.git)
 - A music streaming app that mimics Spotify's UI and allows users to browse music, create playlists, and search for songs.
 - **Technologies Used**: Next.js, CSS Modules, React
 - **Features**: 
