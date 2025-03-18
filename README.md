@@ -37,9 +37,9 @@ I focus on mastering concepts and building from the ground up.
  
 #### 4. [Project management](https://github.com/shoaibalirts/ProjectManagement-React-App.git)
 - A Web app that allow users to create, read, update and delete taks.
-- **Technologies Used**: React.js, and CSS
+- **Technologies Used**: React.js, and Tailwind CSS
 - **Features**: CRUD operation 
-- Styled with **CSS**
+- Styled with **Tailwind CSS**
 
   
 ## Connect with me:
