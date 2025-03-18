@@ -2,10 +2,10 @@
 
 I’m a **Frontend and Software Developer** specializing in **React, Next.js, Vue and Angular** with experience in **Java, PHP, C++**, and **cloud technologies**.  
 My philosophy is very simple i.e. **"Do not imitate, rather understand!"**  
-I focus on mastering concepts and building from the ground up.
+I focus on mastering concepts and understand them.
 
 ## My Skills:
-- Frontend: React, Next.js, Vue, Tailwind CSS
+- Frontend: React, Next.js, Vue, Angular, Tailwind CSS
 - Backend: Java, Java EE, C++, PHP
 - Cloud: Azure (Certified)
 - Web Optimization & Performance
