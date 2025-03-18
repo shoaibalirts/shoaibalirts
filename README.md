@@ -41,6 +41,29 @@ I focus on mastering concepts and building from the ground up.
 - **Features**: CRUD operation 
 - Styled with **Tailwind CSS**
 
+### 🚀 **Vue Projects**
+#### 4. [Multipage Single Page Application](https://github.com/shoaibalirts/VUE-Multipage-SPAs.git)
+- Routing of a multi page single page applications
+- **Technologies Used**: Vue.js, and CSS3
+- **Features**: 
+  -Registering routes
+  -Loading components per route
+  -Navigating routes
+  -Contolling the scroll behaviour of pages
+  -Navigation guard
+- Styled with **CSS3**
+
+### 🚀 **PHP Projects**
+#### 4. [REST API Development](https://github.com/shoaibalirts/PHP-RESTAPI.git)  
+- Developed a REST API 
+- **Technologies Used**: PHP, and SQL Database
+- **Features**: 
+  -Retrieving Data from the Database
+  -Adding Data into database
+  -Updating Data
+  -Delete data
+
+
   
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/shoaib-ali-93b5782aa/)
