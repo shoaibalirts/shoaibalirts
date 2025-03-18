@@ -25,9 +25,7 @@ I’m passionate about building performant, user-friendly web applications. I’
 - **Features**:  SSR for better SEO performance, and lazy loading of images.
 - **Architecture**: 3-tier architecture (Frontend, API, Backend)
 
-### 🎶 **Spotyify App (Next.js, CSS Modules)**
-
-#### [Spotyify App (Next.js, CSS Modules)](https://github.com/shoaibalirts/spotyify-app)
+#### 3. [Spotyify App (Next.js, CSS Modules)](https://github.com/shoaibalirts/spotyify-app)
 - A music streaming app that mimics Spotify's UI and allows users to browse music, create playlists, and search for songs.
 - **Technologies Used**: Next.js, CSS Modules, React
 - **Features**: 
@@ -36,8 +34,8 @@ I’m passionate about building performant, user-friendly web applications. I’
   - Responsive design for a seamless user experience.
   - Styled with **CSS Modules** for scoped, maintainable styling.
  
-
-- [React App](https://github.com/shoaibalirts/ProjectManagement-React-App.git)
+### 🚀 **Next.js Projects**
+#### 4. [React App](https://github.com/shoaibalirts/ProjectManagement-React-App.git)
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/shoaib-ali-93b5782aa/)
