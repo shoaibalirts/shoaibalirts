@@ -1,4 +1,4 @@
-# Hi there, I'm Shoaib! 👋
+# Hi I'm Shoaib!
 
 I’m a **Frontend and Software Developer** specializing in **React, Next.js, and Vue** with experience in **Java, PHP, C++**, and **cloud technologies**.  
 I’m passionate about building performant, user-friendly web applications. I’m always learning and contributing to open-source projects.
