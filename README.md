@@ -36,6 +36,11 @@ I focus on mastering concepts and building from the ground up.
   - Styled with **CSS Modules** for scoped, maintainable styling.
  
 #### 4. [React App](https://github.com/shoaibalirts/ProjectManagement-React-App.git)
+- A Web app that allow users to create, read, update and delete taks.
+- **Technologies Used**: Next.js, CSS Modules, React
+- **Features**: CRUD operation 
+- Styled with **CSS**
 
+  
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/shoaib-ali-93b5782aa/)
