@@ -10,7 +10,7 @@ I’m passionate about building performant, user-friendly web applications. I’
 - Web Optimization & Performance
 
 ## Key Projects:
-- [Next.js](https://github.com/shoaibalirts/DinMaegler-in-NextJS.git, https://github.com/shoaibalirts/ProjectManagement-React-App.git)
+- [Next.js](https://github.com/shoaibalirts/DinMaegler-in-NextJS.git https://github.com/shoaibalirts/ProjectManagement-React-App.git)
 - [React App](https://github.com/shoaibalirts/ProjectManagement-React-App.git)
 
 ## Connect with me:
