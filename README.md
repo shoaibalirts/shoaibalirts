@@ -5,7 +5,7 @@ My philosophy is very simple i.e. **"Do not imitate, rather understand"**
 I focus on mastering concepts and understand them.
 
 ## My Skills:
-- Frontend: React, Next.js, Vue, Angular, Tailwind CSS
+- Frontend: React, Next.js, Vue, Angular
 - Backend: Java, Java EE, C++, PHP
 - Cloud: Azure (Certified)
 - Web Optimization & Performance
