@@ -63,7 +63,3 @@ I focus on mastering concepts and understand them.
   -Updating Data
   -Delete data
 
-
-  
-## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/shoaib-ali-93b5782aa/)
