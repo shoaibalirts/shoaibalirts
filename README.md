@@ -14,7 +14,7 @@ I focus on mastering concepts and understand them.
 
 ### 🚀 **Next.js/React Projects**
 
-#### 1. [Real-Estate Web Application (Next.js, React, CSS modules)](https://github.com/shoaibalirts/DinMaegler-in-NextJS.git)
+#### 1. [Real-Estate Web Application (Next.js, React, CSS modules)]([https://github.com/shoaibalirts/DinMaegler-in-NextJS.git](https://shoaib-realestate.vercel.app/))
 - A Desktop-first design real estate web application with search filters, property details, and an interactive map.
 - **Technologies Used**: Next.js, CSS modules, Google Maps API
 - **Features**: Dynamic page generation, SSR for better SEO performance, and lazy loading of images.
