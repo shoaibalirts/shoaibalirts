@@ -6,7 +6,7 @@ I focus on mastering concepts and understand them.
 
 ## My Skills:
 - Frontend: React, Next.js, Vue, Angular
-- Backend: Java, Java EE, C++, PHP
+- Backend: C#, Java, PHP, Node.js, C/C++
 - Cloud: Azure (Certified)
 - Web Optimization & Performance
 
