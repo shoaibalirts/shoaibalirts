@@ -1,6 +1,6 @@
 # Hi I'm Shoaib!
 
-I’m a **Frontend and Software Developer** specialized in **React, Next.js, Vue and Angular** as well as experience in **Java, PHP, C++**, and **cloud technologies**.  
+I’m a **Frontend and Software Developer** specialized in **React, Next.js, Vue and Angular** as well as experience in **C#, Java, PHP, Node.js, C++**, and **cloud technologies**.  
 My philosophy is very simple i.e. **"Do not imitate, rather understand"**  
 I focus on mastering concepts and understand them.
 
