@@ -1,13 +1,13 @@
 # Hi I'm Shoaib!
 
-I’m a **Frontend and Software Developer** specialized in **React, Next.js, Vue and Angular** as well as experience in **C#, Java, PHP, Node.js, C++**, and **cloud technologies**.  
-My philosophy is very simple i.e. **"Do not imitate, rather understand"**  
+I’m a **Developer with specialization in Web**
+My philosophy after working on hands-on projects is very simple i.e. **"Do not imitate, rather understand"**  
 I focus on mastering concepts and understand them.
 
 ## My Skills:
 - Frontend: Next.js, React.js, Vue.js, Angular.js, TypeScript
-- Backend: C#, Java, PHP, Node.js, C/C++
-- Cloud: Azure (Certified)
+- Backend: C#, Java, PHP, C/C++
+- Cloud: Azure Fundamentals Certified
 - Web Optimization & Performance
 
 ## Key Projects:
