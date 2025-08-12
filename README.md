@@ -1,7 +1,7 @@
 # Hi I'm Shoaib!
 
-I’m a **Developer with specialization in Web**
-.My philosophy after working on hands-on projects is very simple i.e. **"Do not imitate, rather understand"**  
+I’m a **Developer with specialization in Web.**
+My philosophy after working on hands-on projects is very simple i.e. **"Do not imitate, rather understand"**  
 I focus on mastering concepts and understand them.
 
 ## My Skills:
