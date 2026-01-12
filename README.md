@@ -1,6 +1,6 @@
 # Hi I'm Shoaib!
 
-I’m a **Software Developer**
+I’m a **Software Developer Student**
 My philosophy after working on hands-on projects is very simple i.e. **"Do not imitate, rather understand"**  
 I focus on mastering concepts and understand them.
 
