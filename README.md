@@ -1,15 +1,46 @@
-# Hi I'm Shoaib!
+# About Me
 
-I’m a **Software Developer**
-My philosophy after working on hands-on projects is very simple i.e. **"Do not imitate, rather understand"**  
-I focus on mastering concepts and understand them.
+I believe the best way to understand software is to first **feel the problem**.
 
-## My Skills:
-Backend-Focused Full-Stack Developer, 
-.NET Core, 
-REST APIs, 
-Test Driven Development (TDD), 
-API & E2E Testing, 
-Azure & DevOps, 
-Angular, Vue & React, 
-TypeScript
+Not to read about REST APIs — but to face the challenge of making disconnected services work together, and then understand why the principles exist.
+
+Not to study DevOps theory — but to experience a broken deployment pipeline, and then learn what CI/CD actually solves.
+
+That's the philosophy behind my education at **UCL Odense**, and the way I approach development.
+
+I'm a **Software Development student (Top-up)** with a background in:
+
+- System integration
+- Enterprise systems
+- Database design
+- Software quality
+- DevOps
+
+Every concept I've studied has been grounded in something I had to build — which means the theory didn't just make sense on paper.
+
+**It made sense because I needed it.**
+
+## What I Work With
+
+### Backend & APIs
+- .NET Core
+- C#
+- REST APIs
+
+### Frontend
+- Angular
+- Vue
+- React
+- TypeScript
+
+### Cloud & DevOps
+- Azure
+- CI/CD pipelines
+
+### Quality & Testing
+- Software testing strategies
+- Code quality
+
+### Databases
+- Relational modelling
+- Structured data
